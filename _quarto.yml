@@ -3,4 +3,5 @@ project:
   output-dir: web
   resources:
     - "pdf/*.pdf"
+    - "images/*"
 

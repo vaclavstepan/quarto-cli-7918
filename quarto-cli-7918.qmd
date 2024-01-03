@@ -12,4 +12,5 @@ This is lecture 123 and thus the slides, as noted in the header, will be in pdf/
 
 ## Further notes
 
-Literature or whatnot.
+Now, in Safari on Mac, this yields:
+![Safari rendering](images/safari.png)
