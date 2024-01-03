@@ -1,0 +1,15 @@
+---
+title: "quarto-cli-7918"
+pdf: slides123
+---
+
+Now, let's suppose we have a page like this for every lecture in a course. 
+At the beginning, there will be some text, like this, then an enclosed, browseable presentation, then some further text or notes.
+
+This is lecture 123 and thus the slides, as noted in the header, will be in pdf/slides123.pdf. 
+
+![[Download the slides](pdf/{{< meta pdf >}}.pdf)](pdf/{{< meta pdf >}}.pdf)
+
+## Further notes
+
+Literature or whatnot.

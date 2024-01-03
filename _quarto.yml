@@ -1,0 +1,6 @@
+project:
+  title: "quarto-cli-7918"
+  output-dir: web
+  resources:
+    - "pdf/*.pdf"
+
