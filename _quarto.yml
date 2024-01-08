@@ -5,3 +5,10 @@ project:
     - "pdf/*.pdf"
     - "images/*"
 
+format:
+  html:
+    toc: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true

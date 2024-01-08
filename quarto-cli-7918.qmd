@@ -8,7 +8,11 @@ At the beginning, there will be some text, like this, then an enclosed, browseab
 
 This is lecture 123 and thus the slides, as noted in the header, will be in pdf/slides123.pdf. 
 
-![[Download the slides](pdf/{{< meta pdf >}}.pdf)](pdf/{{< meta pdf >}}.pdf)
+![[Download the slides](pdf/{{< meta pdf >}}.pdf)](pdf/{{< meta pdf >}}.pdf){width=100%}
+
+::: {.content-visible when-format="html"}
+Now, note that in PDF, whole page will be shown, thanks to graphicx package. [Click to see](web/quarto-cli-7918.pdf)
+:::
 
 ## Further notes
 
